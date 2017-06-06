@@ -1,0 +1,5 @@
+- siamese-CNN 0.82
+- siamese-LSTM + max_pooling(MLP) 0.85
+- siamese-LSTM + sum_pooling(MLP) 0.84
+- siamese-LSTM + cosine 0.82
+- siamese-LSTM + Bilinear
